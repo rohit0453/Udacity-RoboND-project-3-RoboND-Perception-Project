@@ -11,7 +11,7 @@ You're reading it!
 ### Exercise 1, 2 and 3 pipeline implemented
 #### 1. Complete Exercise 1 steps. Pipeline for filtering and RANSAC plane fitting implemented.
 
-[Here is a link to my python script for all exercises & the project.](https://github.com/rohit0453/RoboND-Perception-Project/blob/master/pr2_robot/scripts/project_template.py)
+[Here is a link to my python script for all exercises & the project.](https://github.com/rohit0453/rohit0453-Udacity-RoboND-project-3-RoboND-Perception-Project/blob/master/src/pr2_robot/scripts/project_template.py)
 
 # Results yaml files:
 
